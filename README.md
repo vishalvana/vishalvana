@@ -141,18 +141,45 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 💼 Professional Journey
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishalvana&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalvana&layout=compact&theme=react&hide_border=true"/>
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalvana&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalvana&theme=react-dark&hide_border=true" width="100%"/>
-  
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+### 🎓 Education Journey
+```
+🎓 Bachelor of Engineering - Computer Science & Engineering
+   Chandigarh University (Mohali) | 2022-2026
+
+🏫 Intermediate (12th) - CBSE
+   S.S Public School (Yamunanagar) | 2021-2022
+
+📚 Matriculation (10th) - CBSE  
+   S.S Public School (Yamunanagar) | 2019-2020
+```
+
+### 📈 Development Timeline
+<div align="center">
+
+| **Year** | **Milestone** | **Achievement** |
+|:---:|:---:|:---:|
+| 2024 | 🚀 **Advanced Projects** | Manodasha AI App, Multiple Hackathons |
+| 2024 | 🏗️ **Architecture Focus** | MVVM, Clean Code, System Design |
+| 2023 | 💻 **Mobile Development** | Android, Jetpack Compose, Firebase |
+| 2023 | 🎯 **Mentorship** | Teaching First-Year Students |
+| 2022 | 🌱 **Foundation** | Started BTech CSE Journey |
+
+</div>
+
+### 🔥 Current Focus Areas
+<div align="center">
+
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Mobile Development](https://img.shields.io/badge/Mobile%20Dev-4ECDC4?style=for-the-badge&logo=android&logoColor=white)
+![System Architecture](https://img.shields.io/badge/System%20Design-45B7D1?style=for-the-badge&logo=architecture&logoColor=white)
+![Mental Health Tech](https://img.shields.io/badge/HealthTech-96CEB4?style=for-the-badge&logo=health&logoColor=white)
+
 </div>
 
 ---
