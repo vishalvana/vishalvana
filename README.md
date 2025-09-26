@@ -1,25 +1,19 @@
-# Hey there! 👋 I'm Vishal Vana 
-## 💻 Aspiring Software Engineer | 🚀 Problem Solver | 🏔 Explorer
-
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+scalable+applications+%F0%9F%9A%80;Passionate+about+clean+code+%E2%9C%A8;Always+learning+new+technologies+%F0%9F%93%9A;Teaching+%26+mentoring+others+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB)
-  
-</div>
+# Hey there!  I'm Vishal Vana 
+##  Aspiring Software Engineer |  Problem Solver |  Explorer
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate *Computer Science & Engineering* student at Chandigarh University with a solid foundation in *data structures, algorithms, operating systems, and computer networks*. I love building scalable, real-world applications that solve meaningful problems and thrive in collaborative team environments.
 
-Beyond the world of code, I'm a quick learner who enjoys *teaching* and *mentoring* others, *writing* about technology, and exploring the world through *trekking* and *traveling*. I believe in writing clean, efficient code while maintaining a healthy work-life balance! 🌟
+Beyond the world of code, I'm a quick learner who enjoys *teaching* and *mentoring* others, *writing* about technology, and exploring the world through *trekking* and *traveling*. I believe in writing clean, efficient code while maintaining a healthy work-life balance! 
 
 Currently working on *Manodasha* - an AI-powered mental health application that integrates wearable technology for personalized well-being support.
 
 ---
 
-## 🛠 Technical Arsenal
+##  Technical Arsenal
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -47,9 +41,9 @@ Currently working on *Manodasha* - an AI-powered mental health application that 
 
 ---
 
-## 🎯 Featured Projects
+##  Featured Projects
 
-### 🧠 Manodasha (AI-Powered Mental Health App) 
+###  Manodasha (AI-Powered Mental Health App) 
 *Ongoing Project*
 - Designed an *AI-powered mental health application* for personalized well-being support
 - *Integrated wearables* to track sleep, BP, water intake, and lifestyle factors
@@ -57,7 +51,7 @@ Currently working on *Manodasha* - an AI-powered mental health application that 
 - Enabled *secure data sharing* with healthcare professionals for structured monitoring
 - *Tech Stack:* Android, AI/ML, Wearable Integration, Firebase
 
-### 🚗 J_RideSphere (Carpool Application)
+###  J_RideSphere (Carpool Application)
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/vishalvana/j_ridesphere)
 *Jan 2024 - May 2024*
 - Developed a comprehensive carpooling app with *user authentication* and *real-time data handling*
@@ -65,14 +59,14 @@ Currently working on *Manodasha* - an AI-powered mental health application that 
 - Features include user management, carpool scheduling, and *performance optimization*
 - *Tech Stack:* Java, Android, Google Maps API, Firebase
 
-### 📱 Todo App with Jetpack Compose
+###  Todo App with Jetpack Compose
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/vishalvana/Todo-using-Compose)
 - Created a *modern Todo application* using Jetpack Compose in Kotlin
 - Implemented *MVVM architecture* for clean, maintainable code structure
 - Showcases expertise in *modern Android development* with declarative UI
 - *Tech Stack:* Kotlin, Jetpack Compose, MVVM Architecture
 
-### 💬 Terminal Chat Application
+###  Terminal Chat Application
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/vishalvana/Terminal-chat-application)
 *Feb 2024 - Apr 2024*
 - Built a *terminal-based chat application* demonstrating core networking concepts
@@ -80,7 +74,7 @@ Currently working on *Manodasha* - an AI-powered mental health application that 
 - Focused on *threading and synchronization* for seamless real-time communication
 - *Tech Stack:* Java, Socket Programming, Multi-threading
 
-### 🌍 Tourism Tracker
+###  Tourism Tracker
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/vishalvana/tourism-tracker)
 - Developed a *tourism tracking application* for travel enthusiasts
 - Combines my passion for *traveling* with technical skills
@@ -88,22 +82,22 @@ Currently working on *Manodasha* - an AI-powered mental health application that 
 
 ---
 
-## 🏆 Achievements & Certifications
+##  Achievements & Certifications
 
-### 🎓 Academic Achievements
-- 📚 *Mentored first-year students* with daily technical lectures and problem-solving sessions
-- 📝 *Published research paper:* "Navigating the Future of Mental Health: A Comprehensive Review of Tracking Applications"
-- 🏃‍♂ *Participated in multiple hackathons:* Game of Code (IEEE), Hack-o-Octo (Pandora X)
-- 🎯 *Completed 6-week C# .NET training* from Chandigarh University
+###  Academic Achievements
+-  *Mentored first-year students* with daily technical lectures and problem-solving sessions
+-  *Published research paper:* "Navigating the Future of Mental Health: A Comprehensive Review of Tracking Applications"
+-  *Participated in multiple hackathons:* Game of Code (IEEE), Hack-o-Octo (Pandora X)
+-  *Completed 6-week C# .NET training* from Chandigarh University
 
-### 🏅 Certifications
+###  Certifications
 - *Multi-Core Computer Architecture* - NPTEL
 - *Cloud Computing* - NPTEL  
 - *Introduction to Android Application Development* - Meta
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   
@@ -117,18 +111,18 @@ Currently working on *Manodasha* - an AI-powered mental health application that 
 
 ---
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
-I'm always excited to collaborate on innovative projects, discuss technology, or share experiences about trekking adventures! 🌟
+I'm always excited to collaborate on innovative projects, discuss technology, or share experiences about trekking adventures! 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://vishal-vana-zg7kh3k.gamma.site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalvana)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalvana)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalvana592003@gmail.com)
 
-*"Code with passion, explore with curiosity, and teach with kindness."* ✨
+*"Code with passion, explore with curiosity, and teach with kindness."* 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vishalvana&color=blueviolet&style=flat-square&label=Profile+Views)
 
